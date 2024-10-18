@@ -1,6 +1,10 @@
 package Sim_Parcial;
 
 public abstract class Contenido {
+	
+	//SE ACTUALIZO LA CLASE CONTENIDO!!
+	
+	
     protected String titulo;
     protected String genero;
     protected double duracion;
